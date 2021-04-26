@@ -4,7 +4,14 @@
   "repository": "github:timkurvers/redota-replay-proxy",
   "license": "MIT",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint . --ext js,cjs"
+  },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@timkurvers/eslint-config": "^2.1.0",
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
 }
