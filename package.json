@@ -1,0 +1,10 @@
+{
+  "name": "@timkurvers/redota-replay-proxy",
+  "author": "Tim Kurvers <tim@moonsphere.net>",
+  "repository": "github:timkurvers/redota-replay-proxy",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
