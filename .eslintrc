@@ -2,7 +2,7 @@
   "extends": "@timkurvers/eslint-config",
   "env": {
     "es2020": true,
-    "worker": true
+    "service-worker": true
   },
   "parserOptions": {
     "ecmaVersion": 2020
